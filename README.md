@@ -2,7 +2,11 @@
 
 ## Description
 
+A game where users move the ball around the space using the arrow keys and collect awards.
+
 ## Running Application
+
+To run this project on your computer clone this repo 
 
 ## Usage
 
