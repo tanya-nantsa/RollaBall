@@ -2,7 +2,7 @@
 
 ## Description
 
-A game where users move the ball around the space using the arrow keys and collect awards.
+A game where users move the ball around the space using the arrow keys to collect awards.
 
 ## Running Application
 
